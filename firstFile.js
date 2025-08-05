@@ -10,3 +10,6 @@
 
 
 // 1 = > git status ===> changings check karne k liye 
+// 2 = > git add . => for add changings,, changins ko  staged changings me move karna 
+// 3 => git commit -m "First push" => staged chanigings ko commit karna
+// 4 => git push origin main => is command se code hamara push hu jaye ga hmari main branch me 
